@@ -111,3 +111,4 @@ export default function TableVEFS({ data, editable = false, setData }) {
       )}
     </>
   );
+}
